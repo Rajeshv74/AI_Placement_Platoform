@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+spacy
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-text-splitters
+google-generativeai
+psycopg2-binary
+sqlalchemy
+pydantic

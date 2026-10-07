@@ -1,0 +1,31 @@
+
+1. What is an operating system and what are its main functions?
+2. Explain the difference between a process and a thread.
+3. What is context switching? When does it occur?
+4. Describe the differences between user mode and kernel mode.
+5. What are system calls? Give examples.
+6. Explain the concept of virtual memory and how paging works.
+7. What is segmentation? How does it differ from paging?
+8. Describe the role of the page table and TLB (Translation Lookaside Buffer).
+9. What is demand paging and what are its advantages?
+10. Explain how page replacement algorithms work; compare LRU, FIFO, and Optimal.
+11. What causes thrashing and how can an OS mitigate it?
+12. Explain the differences between preemptive and non-preemptive scheduling.
+13. Describe common CPU scheduling algorithms: FCFS, SJF, Round Robin, and Priority Scheduling.
+14. What is a race condition? How can it be prevented?
+15. Explain semaphores, mutexes, and monitors; when to use each.
+16. What is deadlock? List the necessary conditions for deadlock.
+17. Describe methods for handling deadlock: prevention, avoidance (e.g., Banker's algorithm), detection, and recovery.
+18. Explain inter-process communication (IPC) mechanisms: pipes, message queues, shared memory, and sockets.
+19. What is a file system? Explain inodes and directory structures.
+20. How do journaling file systems work and why are they useful?
+21. Explain device drivers and the role of interrupt handling.
+22. What is bootstrapping/boot loader and what steps occur during system boot?
+23. Describe kernel architectures: monolithic kernel vs microkernel.
+24. What is concurrency vs parallelism?
+25. How do modern OSes implement security: authentication, authorization, and access control lists (ACLs)?
+26. Explain copy-on-write and where it is used.
+27. What is memory fragmentation (internal vs external) and how can it be reduced?
+28. Describe how swap space works and when the OS uses it.
+29. What are kernel modules and how are they loaded/unloaded?
+30. Explain the concept of namespaces and cgroups in containerization (e.g., Docker).

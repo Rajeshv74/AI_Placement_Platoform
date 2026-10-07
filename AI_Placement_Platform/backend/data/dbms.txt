@@ -1,0 +1,20 @@
+1. What is a database management system (DBMS) and why is it used?
+2. Explain the difference between a primary key and a foreign key.
+3. What are the ACID properties in transaction management?
+4. Describe the difference between normalization and denormalization.
+5. What is a relational database and how does it differ from a NoSQL database?
+6. Define the terms tuple, attribute, and relation in the context of relational databases.
+7. What is SQL and what are its main categories of commands?
+8. Explain the concept of a join and list the different types of joins.
+9. What is an index and how does it improve query performance?
+10. What is data integrity and how can a DBMS enforce it?
+11. Describe the difference between clustered and non-clustered indexes.
+12. What is a view in SQL and when would you use one?
+13. Explain the concept of a transaction and the role of commit and rollback.
+14. What is the difference between a full backup and an incremental backup?
+15. Describe the purpose of a data dictionary in a DBMS.
+16. What is referential integrity and how is it maintained?
+17. Explain the difference between OLTP and OLAP systems.
+18. What is a deadlock and how can a DBMS handle it?
+19. Describe the steps involved in database normalization to 3NF.
+20. What is a schema and how does it relate to database objects?

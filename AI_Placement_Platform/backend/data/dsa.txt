@@ -1,0 +1,57 @@
+DSA Questions for Placement Preparation
+
+1. Array & String Problems
+   - Reverse a string without using built-in functions
+   - Find the longest substring without repeating characters
+   - Merge two sorted arrays
+   - Find all pairs with a given sum in an array
+   - Rotate an array by k positions
+
+2. Linked List Problems
+   - Reverse a linked list
+   - Detect cycle in a linked list
+   - Find the middle of a linked list
+   - Merge two sorted linked lists
+   - Remove duplicates from sorted linked list
+
+3. Stack & Queue Problems
+   - Implement a stack using arrays
+   - Implement a queue using linked lists
+   - Valid parentheses matching
+   - Next greater element
+   - Implement LRU Cache
+
+4. Tree Problems
+   - Binary tree traversal (Inorder, Preorder, Postorder)
+   - Find height of a binary tree
+   - Level order traversal (BFS)
+   - Lowest common ancestor
+   - Serialize and deserialize a binary tree
+
+5. Graph Problems
+   - Depth First Search (DFS)
+   - Breadth First Search (BFS)
+   - Detect cycle in a graph
+   - Topological sort
+   - Shortest path (Dijkstra's algorithm)
+
+6. Sorting & Searching
+   - Implement quicksort
+   - Implement merge sort
+   - Binary search implementation
+   - Find kth largest element
+   - Sort an array of 0s, 1s and 2s
+
+7. Dynamic Programming
+   - Fibonacci series
+   - Longest common subsequence
+   - 0/1 Knapsack problem
+   - Coin change problem
+   - Maximum subarray sum
+
+8. Hash Table Problems
+   - Two sum problem
+   - Group anagrams
+   - Longest substring without repeating characters
+   - First non-repeating character
+   - Isomorphic strings
